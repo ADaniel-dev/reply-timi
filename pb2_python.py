@@ -1,5 +1,6 @@
 """
-请确保在运行代码之前先根据给定的Protobuf文件定义生成Python代码（使用protoc命令或相关插件）。然后，将生成的addressbook_pb2.py文件与上述代码放在同一个目录中。
+在运行代码之前先根据给定的Protobuf文件定义生成Python代码（使用protoc命令或相关插件）。
+然后，将生成的addressbook_pb2.py文件与上述代码放在同一个目录中。
 """
 
 import addressbook_pb2
